@@ -1,0 +1,14 @@
+# dependencies and framework output
+node_modules/
+.next/
+out/
+
+# local configuration and generated runtime files
+.env.local
+.env*.local
+*.tsbuildinfo
+next-dev.*.log
+
+# operating system clutter
+.DS_Store
+Thumbs.db
